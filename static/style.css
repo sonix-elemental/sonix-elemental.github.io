@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium&display=swap');
+
+body {
+    background-image: url('bg-elemental-analytics.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: "Oxanium", serif;
+}
+
+.nav-logo {
+    height: 20px;
+}
+
+.main .logo {
+    height: 100px;
+}
+
+.main .title-text {
+    width: 500px;
+    max-width: 90%;
+}
+
+.main .paragraph {
+    font-family: "Oxanium", serif;
+    text-align: center;
+    color: #D5C2FF !important;
+}
+
+.main a {
+    color: white;
+}
+
+.main .big-text {
+    font-family: "Oxanium", serif;
+    font-size: 2em;
+    color: white;
+    text-align: center;
+}
+
+.big-button {
+    background-color: black;
+    padding: 20px 40px;
+}
+
+.big-button .text {
+    color: white;
+    font-size: 1.2em;
+}
+
+.big-button .thumb {
+    height: 20px;
+}
+
+.bottom-text {
+    position:absolute;
+    bottom: 0;
+    left: 50%;
+    font-size: 0.6em;
+    transform: translate(-50%);
+    padding: 20px;
+    color: white;
+}
+
+a {
+    text-decoration: none !important;
+    color: white;
+}
