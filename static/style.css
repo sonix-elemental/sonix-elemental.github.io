@@ -4,8 +4,10 @@ body {
     background-image: url('bg-elemental-analytics.png');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     color: white;
     font-family: "Oxanium", serif;
+    min-height: 100vh;
 }
 
 .nav-logo {
