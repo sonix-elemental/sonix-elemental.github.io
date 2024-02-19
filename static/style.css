@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxanium&display=swap');
 
 body {
-    background-image: url('bg-elemental-analytics.png');
+    background-image: url('bg-elemental.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -11,7 +11,11 @@ body {
 }
 
 .nav-logo {
-    height: 20px;
+    height: 15px;
+}
+
+.main .main-logo {
+    height: 100px;
 }
 
 .main .logo {
@@ -60,8 +64,9 @@ body {
     left: 50%;
     font-size: 0.6em;
     transform: translate(-50%);
-    padding: 20px;
+    padding: 10px;
     color: white;
+    text-align: center;
 }
 
 a {
